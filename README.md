@@ -1,2 +1,0 @@
-# automatic-sql-injection
-psqli
